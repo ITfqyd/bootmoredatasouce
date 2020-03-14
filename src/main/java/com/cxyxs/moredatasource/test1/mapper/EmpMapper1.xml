@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cxyxs.moredatasource.test1.dao.EmpMapper1">
+  
+  <!--  根据区域名称获取区域代码-->
+   <select id="getAll" resultType="com.cxyxs.moredatasource.entity.Emp">
+		select * from emp
+  </select>
+</mapper>

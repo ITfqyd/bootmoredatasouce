@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.test1",
+      "type": "com.cxyxs.moredatasource.config.Test1Config",
+      "sourceType": "com.cxyxs.moredatasource.config.Test1Config"
+    },
+    {
+      "name": "spring.datasource.test2",
+      "type": "com.cxyxs.moredatasource.config.Test2Config",
+      "sourceType": "com.cxyxs.moredatasource.config.Test2Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.test1.password",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test1Config"
+    },
+    {
+      "name": "spring.datasource.test1.url",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test1Config"
+    },
+    {
+      "name": "spring.datasource.test1.username",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test1Config"
+    },
+    {
+      "name": "spring.datasource.test2.password",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test2Config"
+    },
+    {
+      "name": "spring.datasource.test2.url",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test2Config"
+    },
+    {
+      "name": "spring.datasource.test2.username",
+      "type": "java.lang.String",
+      "sourceType": "com.cxyxs.moredatasource.config.Test2Config"
+    }
+  ],
+  "hints": []
+}
